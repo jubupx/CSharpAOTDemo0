@@ -1,5 +1,5 @@
 Main points
-1. .Net 8  '<IlcGenerateWin32Resources>false</IlcGenerateWin32Resources>' if not  link error
+1. .Net 8  <IlcGenerateWin32Resources>false</IlcGenerateWin32Resources> if not  link error
 2. static lib
 
 add in cpp
