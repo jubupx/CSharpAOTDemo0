@@ -1,0 +1,2 @@
+C:\Users\gatesgao\RiderProjects\NativeLibrary\bin\pub\NativeLibrary.lib
+C:\Users\gatesgao\RiderProjects\NativeLibrary\bin\pub\NativeLibrary.pdb

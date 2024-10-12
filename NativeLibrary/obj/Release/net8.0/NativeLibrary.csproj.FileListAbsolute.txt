@@ -1,0 +1,11 @@
+C:\Users\gatesgao\RiderProjects\NativeLibrary\bin\Release\net8.0\NativeLibrary.deps.json
+C:\Users\gatesgao\RiderProjects\NativeLibrary\bin\Release\net8.0\NativeLibrary.dll
+C:\Users\gatesgao\RiderProjects\NativeLibrary\bin\Release\net8.0\NativeLibrary.pdb
+C:\Users\gatesgao\RiderProjects\NativeLibrary\obj\Release\net8.0\NativeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatesgao\RiderProjects\NativeLibrary\obj\Release\net8.0\NativeLibrary.AssemblyInfoInputs.cache
+C:\Users\gatesgao\RiderProjects\NativeLibrary\obj\Release\net8.0\NativeLibrary.AssemblyInfo.cs
+C:\Users\gatesgao\RiderProjects\NativeLibrary\obj\Release\net8.0\NativeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gatesgao\RiderProjects\NativeLibrary\obj\Release\net8.0\NativeLibrary.dll
+C:\Users\gatesgao\RiderProjects\NativeLibrary\obj\Release\net8.0\refint\NativeLibrary.dll
+C:\Users\gatesgao\RiderProjects\NativeLibrary\obj\Release\net8.0\NativeLibrary.pdb
+C:\Users\gatesgao\RiderProjects\NativeLibrary\obj\Release\net8.0\ref\NativeLibrary.dll

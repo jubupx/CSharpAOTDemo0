@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PublishAot>true</PublishAot>
+    <IlcGenerateWin32Resources>false</IlcGenerateWin32Resources>
+    <NativeLib>Static</NativeLib>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Generate direct PInvoke calls for everything in __Internal -->
+    <!-- This option replicates Mono AOT behavior that generates direct PInvoke calls for __Internal -->
+    <DirectPInvoke Include="__Internal" />
+  </ItemGroup>
+
+</Project>
